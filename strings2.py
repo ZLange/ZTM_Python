@@ -7,10 +7,18 @@
 # print(weather)
 #
 
-# Formatted strings
+# # Formatted strings
+#
+# name = 'Zaiga'
+# age = 30
+#
+# print(f'Hi {name}. Youe are {age} old')
 
-name = 'Zaiga'
-age = 30
+# String indexes
 
-print(f'Hi {name}. Youe are {age} old')
+selfish = '01234567'
+#          01234567
 
+# [start:stop:stepover]
+print(selfish[0:8:2])
+print(selfish[::-1])
