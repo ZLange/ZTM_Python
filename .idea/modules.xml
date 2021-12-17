@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../SeleniumWebDriver/.idea/SeleniumWebDriver.iml" filepath="$PROJECT_DIR$/../SeleniumWebDriver/.idea/SeleniumWebDriver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ZTM_Python.iml" filepath="$PROJECT_DIR$/.idea/ZTM_Python.iml" />
     </modules>
   </component>
